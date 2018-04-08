@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="tiempo_en_segundos">Tiempo en segundos</string>
+    <string name="alarm">Alarm</string>
+</resources>
